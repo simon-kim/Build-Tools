@@ -1,0 +1,20 @@
+{
+  "name": "Build-Tools",
+  "version": "0.0.0",
+  "homepage": "https://github.com/simon-kim/Build-Tools",
+  "authors": [
+    "Simon Kim <simon.ty.kim@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
